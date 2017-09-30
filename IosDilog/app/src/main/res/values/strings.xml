@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IosDilog</string>
+    <string name="bt3">底部弹框任意条目</string>
+    <string name="bt4">退出登录</string>
+    <string name="bt5">提醒消息</string>
+    <string name="bt1">标题一行</string>
+    <string name="bt2">含标题任意条</string>
+</resources>
